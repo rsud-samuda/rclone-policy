@@ -1,4 +1,4 @@
-# rclone-backup
+# rclone
 
 This application is used strictly for personal server database backups using rclone.
 
